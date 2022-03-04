@@ -1,0 +1,1 @@
+pdflatex tesi; bibtex tesi; pdflatex tesi; pdflatex tesi
